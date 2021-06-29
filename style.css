@@ -1,0 +1,56 @@
+body {
+    text-align: center;
+}
+
+#homeimg {
+    width: 500px;
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 100px;
+    border-style: groove;
+    border-color: blue;
+    margin-top: 80px;
+}
+
+#home{
+    background: linear-gradient(#429ef5 0%,#42f590 100%);
+    padding-bottom: 30px; 
+}
+
+p{
+  width: 500px;
+    margin: auto;
+    font-size: 17px;
+    line-height: 1.5;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+#line{
+    height: 7px;
+    background-color: black;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 30px;
+}
+
+#ultimateline{
+    list-style: none;
+    position: fixed;
+    right: 300px auto;
+    cursor:pointer;
+}
+
+.line1{
+    float:left;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.line1:hover{
+    background-color:beige;
+}
+
+h1{
+    font-family: 'Staatliches', cursive;
+}
